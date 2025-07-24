@@ -15,7 +15,33 @@ body
 	background-color: beige;
 }
 
-img
+.Carte
 {
-	display: centered;
+	background-color: #53664e;
+	height: 450px;
+	width: 300px;
+	font-family: sans-serif;
+	border-radius: 10px;
+	box-shadow: 0 4px 10px grey;
+}
+
+.Trois
+{
+	display: flex;
+	gap: 100px;
+	align-items: center;
+	justify-content: center;
+}
+
+.Cinq
+{
+	gap:100px;
+	display: flex;
+	flex-direction: column;
+	padding: 50px;
+}
+
+p
+{
+	size: 3px;
 }

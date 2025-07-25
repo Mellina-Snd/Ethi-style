@@ -23,6 +23,9 @@ body
 	font-family: sans-serif;
 	border-radius: 10px;
 	box-shadow: 0 4px 10px grey;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
 }
 
 .Trois
@@ -39,6 +42,8 @@ body
 	display: flex;
 	flex-direction: column;
 	padding: 50px;
+	justify-content: center;
+	align-items: center;
 }
 
 p

@@ -50,3 +50,9 @@ p
 {
 	size: 3px;
 }
+
+.Image
+{
+	justify-content: center;
+	align-items: center;
+}
